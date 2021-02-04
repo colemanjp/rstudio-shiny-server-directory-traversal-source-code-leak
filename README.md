@@ -10,7 +10,7 @@ Rstudio Shinyserver prior to 1.5.16 is vulnerable to directory traversal and sou
 
 ![](direct2.png)
 
-## Proxyied
+## Proxied
 
 ![](proxy1.png)
 
