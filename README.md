@@ -1,6 +1,6 @@
-# shinyserver-directory-traversal-source-code-leak
+# Rstudio shiny-server Directory Traversal and Source Code Leak
 
-Rstudio Shinyserver prior to 1.5.16 is vulnerable to directory traversal and source code leakage. This can be exploited by appending an encoded slash to the URL. 
+Rstudio Shiny-server prior to 1.5.16 is vulnerable to directory traversal and source code leakage. This can be exploited by appending an encoded slash to the URL. 
 
 
 
